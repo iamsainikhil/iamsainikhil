@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
 <h3 align="center">A passionate developer who brings creative ideas from areas, including networking and data storage, security, UI/UX design, and progressive web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> 
+  <a href="https://sourcerer.io/iamsainikhil"><img src="https://img.shields.io/badge/JavaScript-683%20commits-orange.svg" alt=""></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil" alt="iamsainikhil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a> 
+</p>
 
 - 🔭 I’m currently working on [Gatsby Prismic Blog Starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
 
