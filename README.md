@@ -34,7 +34,7 @@
 <a href="https://dev.to/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://twitter.com/iamsainikhil12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamsainikhil12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsainikhil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iamsainikhil" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7508562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://medium.com/@iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iamsainikhil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsainikhil" height="30" width="40" /></a>
