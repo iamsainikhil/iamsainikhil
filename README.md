@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer who brings creative ideas from areas, including networking and data storage, security, UI/UX design, and progressive web applications.</h3>
 
 <p align="left"> 
-  <a href="https://octolife.now.sh/iamsainikhil" target="_blank"><img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> </a>
+  <a href="https://sourcerer.io/iamsainikhil" target="_blank"><img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> </a>
   <a href="https://sourcerer.io/iamsainikhil" target="_blank"><img src="https://img.shields.io/badge/JavaScript-683%20commits-orange.svg" alt=""></a>
 </p>
 
