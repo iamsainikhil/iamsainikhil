@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on [Gatsby Prismic Blog Starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
 
-- 🌱 I’m currently learning **Gatsby, React Native, and Flutter**
+- 🌱 I’m currently learning **Gatsby, NextJS, React Native, and Flutter**
 
-- 👯 I’m looking to collaborate on **Resume Builder Application using Gatsby & Firebase**
+- 👯 I’m looking to collaborate on a **Resume Builder Application using NextJS & Firebase**
 
 - 👨‍💻 All of my projects are available at [iamsainikhil.com](iamsainikhil.com)
 
