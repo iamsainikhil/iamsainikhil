@@ -94,6 +94,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&show_icons=true" alt="iamsainikhil" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact" alt="iamsainikhil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact" alt="iamsainikhil" />
 </p>
 
