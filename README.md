@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> </a>
-  <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://img.shields.io/badge/JavaScript-704%20commits-orange.svg" alt=""></a>
+  <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://img.shields.io/badge/JavaScript-715%20commits-orange.svg" alt=""></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=monokai" alt="iamsainikhil" /></a> </p>
