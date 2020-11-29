@@ -12,9 +12,9 @@
   <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a> 
 </p>
 
-- 🔭 I’m currently working on [Gatsby Prismic Blog Starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+- 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning e2e testing using **Cypress**
 
 - 👯 I’m looking to collaborate on a **Resume Builder Application using NextJS & Firebase**
 
