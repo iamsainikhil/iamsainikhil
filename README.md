@@ -6,7 +6,7 @@
   <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://img.shields.io/badge/JavaScript-683%20commits-orange.svg" alt=""></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil" alt="iamsainikhil" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=monokai" alt="iamsainikhil" /></a> </p>
 
 <p align="left"> 
   <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a> 
