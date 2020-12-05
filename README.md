@@ -5,10 +5,11 @@
   <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a>
 </p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=onedark" alt="iamsainikhil" /></a>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&count_private=true&show_icons=true&theme=onedark" alt="iamsainikhil" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=onedark" alt="iamsainikhil" /></a>
 </p>
 
 - 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter)
