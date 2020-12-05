@@ -2,14 +2,13 @@
 <h3 align="center">A passionate developer who brings creative ideas from areas, including networking and data storage, security, UI/UX design, and progressive web applications.</h3>
 
 <p align="left"> 
-  <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://komarev.com/ghpvc/?username=iamsainikhil&label=Profile%20views&color=0e75b6&style=flat" alt="iamsainikhil" /> </a>
-  <a href="https://coderstats.net/github/#iamsainikhil" target="_blank"><img src="https://img.shields.io/badge/JavaScript-715%20commits-orange.svg" alt=""></a>
+  <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=monokai" alt="iamsainikhil" /></a> </p>
-
-<p align="left"> 
-  <a href="https://twitter.com/iamsainikhil12" target="blank"><img src="https://img.shields.io/twitter/follow/iamsainikhil12?logo=twitter&style=for-the-badge" alt="iamsainikhil12" /></a> 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&count_private=true&show_icons=true&theme=onedark" alt="iamsainikhil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=onedark" alt="iamsainikhil" /></a>
 </p>
 
 - 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter)
@@ -93,11 +92,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
 -->
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil" alt="iamsainikhil" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact" alt="iamsainikhil" />
 </p>
 
 
