@@ -16,13 +16,15 @@
 
 - 🌱 I’m currently learning e2e testing using **Cypress**
 
+- 🏎️ I created a couple of starter templates in [**Gatsby**](https://github.com/iamsainikhil/gatbsy-prismic-blog-starter) & [**NextJS**](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) to help you build a blog using **Prismic** CMS
+
 - 👯 I’m looking to collaborate on a **Resume Builder Application using NextJS & Firebase**
 
 - 👨‍💻 All of my projects are available at [iamsainikhil.com](iamsainikhil.com)
 
 - 📝 I regulary write articles on [blog.iamsainikhil.com](blog.iamsainikhil.com)
 
-- 💬 Ask me about **React, Angular, Vue, Gatsby, Prismic, and Firebase**
+- 💬 Ask me about **React, Angular, Vue, Gatsby, NextJS, Prismic, and Firebase**
 
 - 📫 How to reach me **contact@iamsainikhil.com**
 
