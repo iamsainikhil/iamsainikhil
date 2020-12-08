@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning e2e testing using **Cypress**
 
-- 🏎️ I created a couple of starter templates in [**Gatsby**](https://github.com/iamsainikhil/gatbsy-prismic-blog-starter) & [**NextJS**](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) to help you build a blog using **Prismic** CMS
+- 🏎️ I created a couple of starter templates in [**Gatsby**](https://github.com/iamsainikhil/gatsby-prismic-blog-starter) & [**NextJS**](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) to help you build a blog using **Prismic** CMS
 
 - 👯 I’m looking to collaborate on a **Resume Builder Application using NextJS & Firebase**
 
