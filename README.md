@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning e2e testing using **Cypress**
 
 
- - 🏎️ I created a couple of starter templates in **[Gatsby]**(https://github.com/iamsainikhil/gatsby-prismic-blog-starter) & **[NextJS]**(https://github.com/iamsainikhil/nextjs-prismic-blog-starter) to help you build a blog using **Prismic** CMS which have &nbsp;<a href="https://www.npmjs.com/package/gatsby-prismic-blog-starter" target="_blank" rel="noreferrer noopener" style="margin: 0 0.25rem;">
+ - 🏎️ I created a couple of starter templates in [Gatsby](https://github.com/iamsainikhil/gatsby-prismic-blog-starter) & [NextJS](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) to help you build a blog using **Prismic** CMS which have &nbsp;<a href="https://www.npmjs.com/package/gatsby-prismic-blog-starter" target="_blank" rel="noreferrer noopener" style="margin: 0 0.25rem;">
 <img alt="npm downloads" src="https://img.shields.io/npm/dt/gatsby-prismic-blog-starter?style=for-the-badge">
 </a>&nbsp;and&nbsp;<a href="https://www.npmjs.com/package/nextjs-prismic-blog-starter" target="_blank" rel="noreferrer noopener" style="margin: 0 0.25rem;">
 <img alt="npm downloads" src="https://img.shields.io/npm/dt/nextjs-prismic-blog-starter?style=for-the-badge">
