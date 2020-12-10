@@ -12,7 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
 </p>
 
-- 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter)
+- 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) <span><a href="https://www.npmjs.com/package/nextjs-prismic-blog-starter" target="_blank" rel="noreferrer noopener" style="margin: 0 0.25rem;">
+<img alt="npm downloads" src="https://img.shields.io/npm/dt/nextjs-prismic-blog-starter?style=flat-square">
+</a></span>
 
 - 🌱 I’m currently learning e2e testing using **Cypress**
 
