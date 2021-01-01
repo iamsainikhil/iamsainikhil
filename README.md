@@ -38,7 +38,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iamsainikhil" height="30" width="40" /></a>
+<a href="https://codepen.io/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://dev.to/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://twitter.com/iamsainikhil12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamsainikhil12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamsainikhil" height="30" width="40" /></a>
