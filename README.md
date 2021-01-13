@@ -45,17 +45,6 @@
 
 </details>
 
-<details>	
-  <br />
-  <summary><b>💻&nbsp; Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows 10 </li>
-	    <li><b>PC: Asus ROG GR8 II</li>
-	    <li><b>Code Editor:</b> VSCode ❤ , CodeSandbox</li>
-      <li><b>Tools: Prismic CMS, Firebase, Canva, Notion, etc.</li>
-	</ul>	
-</details>
-
 <details>
   <br />
   <summary><b>🤝&nbsp; Connect with me:</b></summary>
@@ -131,6 +120,17 @@
 </div>
 </details>
 
+<details>	
+  <br />
+  <summary><b>💻&nbsp; Dev Setup</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Windows 10 | MacOS Mojave</li>
+	   <li><b>PC/Laptop:</b> Asus ROG GR8 II | Macbook Pro 15</li>
+	    <li><b>Code Editor:</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" title="VSCode" width="16" height="16"/> , <img src="https://www.brandeps.com/icon-download/C/Codesandbox-icon-vector-03.svg" alt="CodeSandbox" title="CodeSandbox" width="16" height="16"/></li>
+            <li><b>Tools:</b> Prismic CMS, Firebase, Canva, Notion, etc.</li>
+	</ul>	
+</details>
+
 
 
 <hr/>
@@ -139,3 +139,4 @@
 
 ### Show some ❤️ by starring my repositories & following me 😉 !
 
+</div>
