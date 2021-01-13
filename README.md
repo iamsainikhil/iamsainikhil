@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate developer who brings creative ideas from areas, including networking and data storage, security, UI/UX design, and progressive web applications.</h3>
 
-![](https://komarev.com/ghpvc/?username=iamsainikhil&color=161819&label=Profile+Views)
-&nbsp; ![GitHub](https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social)
+![GitHub](https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social)
 &nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/iamsainikhil12)](https://twitter.com/iamsainikhil12)
 
 <details>	
