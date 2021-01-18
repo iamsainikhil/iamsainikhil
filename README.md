@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
 <h3 align="center">A passionate developer who brings creative ideas from areas, including networking and data storage, security, UI/UX design, and progressive web applications.</h3>
 
-![GitHub](https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social)
-&nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/iamsainikhil12)](https://twitter.com/iamsainikhil12)
+<p align="center">
+<img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
+<img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
+</p>
 
 <details>	
   <br />
