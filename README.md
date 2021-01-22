@@ -58,7 +58,7 @@
 <a href="https://stackoverflow.com/users/7508562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://medium.com/@iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iamsainikhil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsainikhil" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsainikhil" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iamsainikhil" height="30" width="40" /></a>
   </div>
@@ -127,7 +127,7 @@
   	<ul>
   	   <li><b>OS:</b> Windows 10 | MacOS Mojave</li>
 	   <li><b>PC/Laptop:</b> Asus ROG GR8 II | Macbook Pro 15</li>
-            <li><b>PC/Monitor:</b> LG 34UM68-P | Dell UltraSharp 1908FP</li>
+            <li><b>Monitor:</b> LG 34UM68-P | Dell UltraSharp 1908FP</li>
 	    <li><b>Code Editor:</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" title="VSCode" width="16" height="16"/> , <img src="https://www.brandeps.com/icon-download/C/Codesandbox-icon-vector-03.svg" alt="CodeSandbox" title="CodeSandbox" width="16" height="16"/></li>
             <li><b>Tools:</b> Prismic CMS, Firebase, Canva, Notion, etc.</li>
 	</ul>	
