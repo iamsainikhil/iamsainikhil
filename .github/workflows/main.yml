@@ -22,6 +22,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          plugin_habits: yes
+          plugin_habits_from: 200    
+          plugin_habits_days: 365
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
