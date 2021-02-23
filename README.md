@@ -1,8 +1,3 @@
-<h1 align="center">
-<img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
-<img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
-</h1>
-
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.classic.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.licenses.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.projects.svg"></p>
@@ -149,6 +144,10 @@
 <hr/>
 
 <div align="center">
+<h1 align="left">
+<img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
+<img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
+</h1>
 
 ### Show some ❤️ by starring my repositories & following me 😉 !
 
