@@ -16,11 +16,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  
-  ![Metrics](https://metrics.lecoq.io/iamsainikhil?template=classic&habits=1&habits_from=200&habits_days=365&habits_facts=1&habits_charts=1&activity=1&gists=1&languages=1&isocalendar=1&lines=1&projects=1&followup=1&tweets=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&projects.limit=5&projects.descriptions=true&tweets.limit=4&tweets.user=iamsainikhil12&config.timezone=America%2FNew_York) -->
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
   ![Metrics](https://github.com/iamsainikhil/iamsainikhil/blob/main/github-metrics.svg)
+  -->
+  
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.classic.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.projects.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.languages.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.followup.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.gists.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.habits.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.people.followers.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.topics.mastered.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.stargazers.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.skyline.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.isocalendar.fullyear.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.activity.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.tweets.svg"></p>
+
 </details>
 
 <details>
