@@ -6,20 +6,6 @@
 <img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
 </p>
 
-<details>	
-  <br />
-  <summary><b>🚀&nbsp; Github Stats</b></summary>
-  
-  <!--
-  <img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=onedark" alt="iamsainikhil" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&count_private=true&show_icons=true&theme=onedark" alt="iamsainikhil" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-  ![Metrics](https://github.com/iamsainikhil/iamsainikhil/blob/main/github-metrics.svg)
-  -->
-  
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.classic.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.projects.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.languages.svg"></p>
@@ -34,12 +20,25 @@
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.activity.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.tweets.svg"></p>
 
+<!-- <details>
+  <br />
+  <summary><b>🚀&nbsp; Github Stats</b></summary>
+
+
+  <img src="https://github-profile-trophy.vercel.app/?username=iamsainikhil&theme=onedark" alt="iamsainikhil" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&count_private=true&show_icons=true&theme=onedark" alt="iamsainikhil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&layout=compact&langs_count=8&theme=onedark" alt="iamsainikhil" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  ![Metrics](https://github.com/iamsainikhil/iamsainikhil/blob/main/github-metrics.svg)
+
 </details>
 
 <details>
   <summary><b>👨‍💻&nbsp; About Me</b></summary>
-  
-  - 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter) 
+
+  - 🔭 I’m currently working on [NextJS Prismic Blog Starter](https://github.com/iamsainikhil/nextjs-prismic-blog-starter)
 
 - 🌱 I’m currently learning e2e testing using **Cypress**
 
@@ -62,7 +61,7 @@
 
 - 📄 Know about my experiences [iamsainikhil.com/resume](iamsainikhil.com/resume)
 
-</details>
+</details> -->
 
 <details>
   <br />
@@ -81,7 +80,6 @@
 <a href="https://www.leetcode.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iamsainikhil" height="30" width="40" /></a>
   </div>
 </details>
-
 
 <details>
   <br />
@@ -118,12 +116,11 @@
 
 <!--
 <div>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
+<a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 </div>
 -->
-
 
 <div>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -150,8 +147,6 @@
             <li><b>Tools:</b> Prismic CMS, Firebase, Canva, Notion, etc.</li>
 	</ul>	
 </details>
-
-
 
 <hr/>
 
