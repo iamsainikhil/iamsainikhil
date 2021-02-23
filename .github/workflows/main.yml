@@ -510,7 +510,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
+          plugin_tweets_user: iamsainikhil12
           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
 
       # ======================================================================================
