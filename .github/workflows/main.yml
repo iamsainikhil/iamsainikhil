@@ -52,7 +52,7 @@ jobs:
           plugin_languages_skipped: my-test-repo
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage             
-          plugin_languages_threshold: 2%                             
+          plugin_languages_threshold: 0%                             
           plugin_lines: yes
           plugin_projects: yes
           plugin_projects_descriptions: yes
