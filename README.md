@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
   
-  ![Metrics](https://metrics.lecoq.io/iamsainikhil?template=classic&activity=1&gists=1&introduction=1&languages=1&isocalendar=1&lines=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
+  ![Metrics](https://metrics.lecoq.io/iamsainikhil?template=classic&activity=1&gists=1&languages=1&isocalendar=1&lines=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
 </details>
 
 <details>
