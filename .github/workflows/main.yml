@@ -270,53 +270,6 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
 
       # ======================================================================================
-      # ⏱️ Website performances
-
-      # Google PageSpeed insight website audit (token option but advised)
-      # This use website linked to GitHub account
-      - name: ⏱️ PageSpeed plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.pagespeed.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
-          plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
-
-      # Google PageSpeed insight website audit, with additional metrics (token option but advised)
-      # This use website linked to GitHub account
-      - name: ⏱️ PageSpeed plugin (detailed)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.pagespeed.detailed.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
-          plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
-
-      # Google PageSpeed insight website audit, with a screenshot of your website (token option but advised)
-      # This use website linked to GitHub account
-      - name: ⏱️ PageSpeed plugin (screenshot)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.pagespeed.screenshot.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
-          plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
-
-      # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
 
       # Display followers and followed users
