@@ -39,7 +39,8 @@ jobs:
           plugin_projects: yes
           plugin_projects_descriptions: yes
           plugin_projects_limit: 5
-          plugin_projects_repositories: iamsainikhil/iamsainikhil.github.io, iamsainikhil/looptube, iamsainikhil/weather-react, iamsainikhil/gatsby-prismic-blog-starter, iamsainikhil/nextjs-prismic-blog-starter
+          plugin_projects_repositories: iamsainikhil/iamsainikhil.github.io/projects/1, iamsainikhil/weather-react/projects/1, iamsainikhil/gatsby-prismic-blog-starter/projects/1
           plugin_tweets: yes
           plugin_tweets_limit: 4
           plugin_tweets_user: iamsainikhil12
+          query: '{"repo": "looptube"}'
