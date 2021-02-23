@@ -144,7 +144,7 @@
 <hr/>
 
 <div align="center">
-<h1 align="left">
+<h1 align="center">
 <img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
 <img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
 </h1>
