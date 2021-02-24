@@ -11,7 +11,7 @@
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.skyline.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.isocalendar.fullyear.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.activity.svg"></p>
-<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.tweets.svg"></p>
+<!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.tweets.svg"></p> -->
 
 <!-- <details>
   <br />
