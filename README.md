@@ -151,4 +151,10 @@
 
 ### Show some ❤️ by starring my repositories & following me 😉 !
 
+<hr/>
+
+<p>If you want to support me in developing even more useful open-source projects, please consider 
+<a href="https://www.buymeacoffee.com/iamsainikhil" target="_blank" rel="noopener noreferrer">Buying me a <strong>book</strong></a>!
+</p>
+
 </div>
