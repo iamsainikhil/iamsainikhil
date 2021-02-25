@@ -1,6 +1,7 @@
-# This is a workflow which display most of lowlighter/metrics features
+# This is a workflow shamelessly copied from lowlighter/metrics worflow with few plugins turned off
 # It is also used to detect broken plugins, so that's why "plugins_errors_fatal" is enabled on most of them,
 # but you should set it to no if you're copying steps from this workflow
+# for more information and the features, check https://github.com/lowlighter/metrics
 
 name: Metrics
 on:
@@ -335,17 +336,17 @@ jobs:
       # ✒️ Recent posts
 
       # Display recent posts
-      - name: ✒️ Posts plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.posts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ''
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
+#       - name: ✒️ Posts plugin
+#         if: ${{ success() || failure() }}
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.plugin.posts.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           base: ''
+#           plugin_posts: yes
+#           plugin_posts_source: dev.to
+#           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
 
       # ======================================================================================
       # 🗂️ Projects
