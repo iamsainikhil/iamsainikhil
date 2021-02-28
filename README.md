@@ -11,7 +11,7 @@
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.skyline.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.isocalendar.fullyear.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.activity.svg"></p>
-<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.tweets.svg"></p>
+<p><img alt="🧑‍💻" align="center" src="https://metrics.lecoq.io/iamsainikhil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.limit=6&tweets.user=iamsainikhil12&config.timezone=America%2FNew_York"></p>
 
 <!-- <details>
   <br />

@@ -454,21 +454,19 @@ jobs:
 
       # Display your latest tweets (token required)
       # Don't forget to update your GitHub profile with your twitter username
-      - name: 🐤 Tweets plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.tweets.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: iamsainikhil
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          template: classic
-          base: ''
-          config_timezone: America/New_York
-          plugin_tweets: yes
-          plugin_tweets_limit: 4
-          plugin_tweets_user: iamsainikhil12
-          plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
+      # - name: 🐤 Tweets plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.tweets.svg
+      #     token: NOT_NEEDED
+      #     user: botlighter
+      #     committer_token: ${{ secrets.GITHUB_TOKEN }}
+      #     plugin_tweets: yes
+      #     plugin_tweets_limit: 6
+      #     plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+      #     plugin_tweets_user: iamsainikhil12
+      #     plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
 
       # ======================================================================================
       # ⏰ WakaTime plugin
