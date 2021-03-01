@@ -140,7 +140,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: repository
-          query: '{"repo":"looptube"}'
+          query: '{"repo":"trimtube"}'
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
@@ -216,7 +216,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ''
           template: repository
-          query: '{"repo":"looptube"}'
+          query: '{"repo":"iamsainikhil.github.io"}'
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
@@ -231,7 +231,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ''
           template: repository
-          query: '{"repo":"looptube"}'
+          query: '{"repo":"iamsainikhil.github.io"}'
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugin_licenses_legal: no
@@ -248,7 +248,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ''
           template: repository
-          query: '{"repo":"looptube"}'
+          query: '{"repo":"iamsainikhil.github.io"}'
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugin_licenses_legal: yes
