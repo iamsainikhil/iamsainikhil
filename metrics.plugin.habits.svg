@@ -1055,7 +1055,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 03:00
+                            Mostly push code around 04:00
                         </li>
                         <li>
                             Mostly active on sunday
@@ -1087,14 +1087,14 @@
                         <span class="value">
                             8
                         </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         03
                     </div>
                     <div class="entry">
                         <span class="value">
-                            4
+                            9
                         </span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         04
                     </div>
                     <div class="entry">
@@ -1202,7 +1202,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                12
+                                17
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
