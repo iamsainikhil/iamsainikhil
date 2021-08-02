@@ -1203,7 +1203,7 @@
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
-                            <div class="label" title="ECMAScript 6 is the sixth release of the ECMAScript language.">es6</div>
+                            <div class="label" title="">es6</div>
                             <div class="label" title="Firebase, Electron, Documentation">and 3 more...</div>
                         </div>
                     </section>
