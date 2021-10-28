@@ -1372,8 +1372,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="197.14285714285714" height="8" fill="#28A745"/>
-                                <rect mask="url(#project-bar)" x="197.14285714285714" y="0" width="131.42857142857142" height="8" fill="#6F42C1"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="197.14285714285714" height="8" fill="#238636"/>
+                                <rect mask="url(#project-bar)" x="197.14285714285714" y="0" width="131.42857142857142" height="8" fill="#8957e5"/>
                                 <rect mask="url(#project-bar)" x="328.57142857142856" y="0" width="131.42857142857142" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
@@ -1411,8 +1411,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="387.36842105263156" height="8" fill="#28A745"/>
-                                <rect mask="url(#project-bar)" x="387.36842105263156" y="0" width="24.210526315789473" height="8" fill="#6F42C1"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="387.36842105263156" height="8" fill="#238636"/>
+                                <rect mask="url(#project-bar)" x="387.36842105263156" y="0" width="24.210526315789473" height="8" fill="#8957e5"/>
                                 <rect mask="url(#project-bar)" x="411.57894736842104" y="0" width="48.421052631578945" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
