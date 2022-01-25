@@ -1,4 +1,5 @@
-<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.header.svg"></p>
+<!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.header.svg"></p> -->
+<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.achievements.compact.svg"></p>
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.licenses.svg"></p> -->
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.lines.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.languages.svg"></p>
