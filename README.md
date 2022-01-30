@@ -1,17 +1,17 @@
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.header.svg"></p> -->
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.achievements.compact.svg"></p>
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.licenses.svg"></p> -->
-<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.lines.svg"></p>
+<p><a href="https://github.com/iamsainikhil?tab=repositories" target="_blank"><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.lines.svg"></a></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.languages.svg"></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.followup.svg"></p>
-<p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.gists.svg"></p>
+<p><a href="https://gist.github.com/iamsainikhil" target="_blank"><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.gists.svg"></a></p>
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.habits.svg"></p>
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.people.followers.svg"></p> -->
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.topics.mastered.svg"></p> -->
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.stargazers.svg"></p>
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.skyline.svg"></p> -->
 <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.activity.svg"></p>
-<p><img alt="🧑‍💻" align="center" src="https://metrics.lecoq.io/iamsainikhil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.limit=6&tweets.user=iamsainikhil12&config.timezone=America%2FNew_York"></p>
+<p><a href="https://twitter.com/iamsainikhil12" target="_blank"><img alt="🧑‍💻" align="center" src="https://metrics.lecoq.io/iamsainikhil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.limit=6&tweets.user=iamsainikhil12&config.timezone=America%2FNew_York"></a></p>
 <!-- <p><img alt="🧑‍💻" align="center" src="https://github.com/iamsainikhil/iamsainikhil/blob/main/metrics.plugin.isocalendar.fullyear.svg"></p> -->
 
 <!-- <details>
