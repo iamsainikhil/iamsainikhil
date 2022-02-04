@@ -194,32 +194,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 40.63963963963964%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">51%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 19.486486486486488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">24%</span>
+                            <div class="bar" style="width: 37.8662383847654%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">47%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 17.954954954954957%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">22%</span>
+                            <div class="bar" style="width: 20.33727199724676%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">25%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 19.84168865435356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">25%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.8828828828828829%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8993919926580246%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Smarty</span>
-                            <div class="bar" style="width: 0.7657657657657657%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7800848915911438%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.2702702702702703%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.27532407938510955%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
