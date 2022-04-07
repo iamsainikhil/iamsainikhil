@@ -134,9 +134,9 @@
   <br />
   <summary><b>💻&nbsp; Dev Setup</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 10 | MacOS Mojave</li>
-	   <li><b>PC/Laptop:</b> Asus ROG GR8 II | Macbook Pro 15</li>
-            <li><b>Monitor:</b> LG 34UM68-P | Dell UltraSharp 1908FP</li>
+  	   <li><b>OS:</b> Windows 10 | MacOS Monterey</li>
+	   <li><b>PC/Laptop:</b> Asus ROG GR8 II | Macbook Pro 16</li>
+            <li><b>Monitor:</b> LG 34UM68-P ultra-wide </li>
 	    <li><b>Code Editor:</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" title="VSCode" width="16" height="16"/> , <img src="https://www.brandeps.com/icon-download/C/Codesandbox-icon-vector-03.svg" alt="CodeSandbox" title="CodeSandbox" width="16" height="16"/></li>
             <li><b>Tools:</b> Prismic CMS, Firebase, Canva, Notion, etc.</li>
 	</ul>	
