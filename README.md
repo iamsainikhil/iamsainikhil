@@ -69,7 +69,7 @@
 <a href="https://stackoverflow.com/users/7508562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://medium.com/@iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iamsainikhil" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsainikhil" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/c/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamsainikhil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamsainikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="iamsainikhil" height="30" width="40" /></a>
   </div>
