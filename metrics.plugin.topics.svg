@@ -22,8 +22,8 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
-                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
+                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
