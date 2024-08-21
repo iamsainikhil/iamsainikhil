@@ -146,18 +146,13 @@
 
 <hr/>
 
-<div align="center">
-<h1 align="center">
-<img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
-<img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
-</h1>
-
 ### Show some ❤️ by starring my repositories & following me 😉 !
 
-<hr/>
+<img src="https://img.shields.io/github/followers/iamsainikhil?label=Follow%20Me%21&style=social" alt="GitHub | iamsainikhil" />&nbsp;
+<img src="https://img.shields.io/twitter/follow/iamsainikhil12" alt="Twitter | iamsainikhil12" />
+
+<!-- <hr/>
 
 <p>If you want to support me in developing even more useful open-source projects, please consider 
 <a href="https://www.buymeacoffee.com/iamsainikhil" target="_blank" rel="noopener noreferrer">Buying me a <strong>book</strong></a>!
-</p>
-
-</div>
+</p> -->
