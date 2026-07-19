@@ -140,7 +140,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: repository
-          query: '{"repo":"trimtube"}'
+          query: '{"repo":"weather-react"}'
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'iamsainikhil/iamsainikhil' }}
