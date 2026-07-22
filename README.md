@@ -22,8 +22,7 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
 
 ### Blog
 
-<p>
-Not actively writing. Follow me on <a href="https://twitter.com/iamsainikhil12" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="vertical-align: middle;" /></a> for updates on what I'm shipping & writing.</p>
+Not actively writing. Follow me on <a href="https://twitter.com/iamsainikhil12" target="_blank" rel="noopener noreferrer">X</a> for updates on what I'm shipping & writing.
 
 <!-- BLOG:START -->
 - <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
