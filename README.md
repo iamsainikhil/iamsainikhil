@@ -26,6 +26,18 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
 Not actively writing. Follow me on <a href="https://twitter.com/iamsainikhil12" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="vertical-align: middle;" /></a> for updates on what I'm shipping & writing.</p>
 
 <!-- BLOG:START -->
+- <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
+- <a href="https://blog.iamsainikhil.com/article/serverless-functions-vercel" target="_blank" rel="noopener noreferrer">Serverless Functions on Vercel</a>
+- <a href="https://blog.iamsainikhil.com/article/prismic-webhooks" target="_blank" rel="noopener noreferrer">Prismic Webhooks</a>
+
+<details>
+  <summary>More articles</summary>
+  <ul>
+    <li><a href="https://blog.iamsainikhil.com/article/build-a-blog-using-gatsby-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using Gatsby & Prismic</a></li>
+    <li><a href="https://blog.iamsainikhil.com/article/themes-using-theme-ui" target="_blank" rel="noopener noreferrer">Build custom themes using Theme UI</a></li>
+    <li><a href="https://blog.iamsainikhil.com/article/weather-react-app" target="_blank" rel="noopener noreferrer">Build a Weather Application Using React</a></li>
+  </ul>
+</details>
 <!-- BLOG:END -->
 
 ### Tech Stack & Tools
