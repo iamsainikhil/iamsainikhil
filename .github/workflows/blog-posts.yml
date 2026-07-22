@@ -1,0 +1,73 @@
+name: Blog Posts
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'iamsainikhil/iamsainikhil'"
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch latest blog posts
+        run: |
+          curl -s "https://blog.iamsainikhil.com" -o blog.html
+          python3 << 'EOF'
+          import re, html
+
+          with open("blog.html") as f:
+              content = f.read()
+
+          articles = re.findall(
+              r'<a href="(/article/[^"]+)">([^<]+)</a>',
+              content
+          )
+
+          seen = set()
+          unique = []
+          for url, title in articles:
+              title = html.unescape(title.strip())
+              if title and title not in seen:
+                  seen.add(title)
+                  unique.append((url, title))
+
+          if not unique:
+              print("No articles found")
+              exit(0)
+
+          with open("README.md") as f:
+              readme = f.read()
+
+          start = "<!-- BLOG:START -->"
+          end = "<!-- BLOG:END -->"
+
+          top = unique[:3]
+          rest = unique[3:]
+
+          new_section = f"{start}\n"
+          for url, title in top:
+              escaped_title = title.replace('"', '&quot;')
+              new_section += f'- <a href="https://blog.iamsainikhil.com{url}" target="_blank" rel="noopener noreferrer">{escaped_title}</a>\n'
+          if rest:
+              new_section += '\n<details>\n  <summary>📚 More articles</summary>\n  <ul>\n'
+              for url, title in rest:
+                  escaped_title = title.replace('"', '&quot;')
+                  new_section += f'    <li><a href="https://blog.iamsainikhil.com{url}" target="_blank" rel="noopener noreferrer">{escaped_title}</a></li>\n'
+              new_section += '  </ul>\n</details>\n'
+          new_section += f"{end}"
+
+          if start in readme and end in readme:
+              readme = re.sub(f"{start}.*?{end}", new_section, readme, flags=re.DOTALL)
+              with open("README.md", "w") as f:
+                  f.write(readme)
+              print("README updated with latest blog posts")
+          else:
+              print(f"Blog markers not found in README. Add {start} and {end} comments to enable auto-updates.")
+          EOF
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --exit-code || git commit -m "chore: update blog posts [skip ci]"
+          git push
