@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/iamsainikhil">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;React%20%26%20TypeScript%20full-stack%20developer;Serverless%20%26%20PWA%20architecture;AI-accelerated%20development&font=Fira%20Code&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Full-stack%20developer;AI Orchestrator;AI%20as%20a%20tool%20in%20the%20stack&font=Rubik&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,11 +32,11 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
 
 ### Featured work
 
-| Project | What I built | Why it matters | Live |
-| --- | --- | --- | --- |
-| <a href="https://github.com/iamsainikhil/weather-react" target="_blank" rel="noopener noreferrer">weather-react</a> | React 18 PWA with geolocation weather, 48h/8d forecasts, wind map, dynamic backgrounds, auto day/night theme, Sentry+LogRocket monitoring. | Started as a React learning project, outlived both Dark Sky and Algolia Places shutting down. No Redux, no overengineering, just Context API and serverless proxies. | <a href="https://weather-react-iamsainikhil.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a> |
-| <a href="https://github.com/iamsainikhil/trimtube" target="_blank" rel="noopener noreferrer">trimtube</a> | Next.js PWA that fetches YouTube videos/playlists, trims/loops client-side via IFrame API, manages playlists in localStorage with shuffle/sort/share. | Video trimming without a server. Everything happens in the browser. Handles 300+ video playlists and share links that survive full page reloads. | <a href="https://trimtube.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a> |
-| <a href="https://github.com/iamsainikhil/qr-canvas" target="_blank" rel="noopener noreferrer">qr-canvas</a> | Next.js QR builder with Firestore backend. 10 QR types, rich visual customization (colors, shapes, logos, scan labels), dynamic redirects via API routes, and per-code scan analytics with geo/UTM tracking. | Change a printed QR's destination anytime. Full scan analytics without selling user data. A free, self-hostable alternative to paid QR services that charge $20+/mo. | <a href="https://qrcanvas.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a> |
+| Project                                                                                                             | What I built                                                                                                                                                                                                 | Why it matters                                                                                                                                                       | Live                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/iamsainikhil/weather-react" target="_blank" rel="noopener noreferrer">weather-react</a> | React 18 PWA with geolocation weather, 48h/8d forecasts, wind map, dynamic backgrounds, auto day/night theme, Sentry+LogRocket monitoring.                                                                   | Started as a React learning project, outlived both Dark Sky and Algolia Places shutting down. No Redux, no overengineering, just Context API and serverless proxies. | <a href="https://weather-react-iamsainikhil.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a> |
+| <a href="https://github.com/iamsainikhil/trimtube" target="_blank" rel="noopener noreferrer">trimtube</a>           | Next.js PWA that fetches YouTube videos/playlists, trims/loops client-side via IFrame API, manages playlists in localStorage with shuffle/sort/share.                                                        | Video trimming without a server. Everything happens in the browser. Handles 300+ video playlists and share links that survive full page reloads.                     | <a href="https://trimtube.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a>                   |
+| <a href="https://github.com/iamsainikhil/qr-canvas" target="_blank" rel="noopener noreferrer">qr-canvas</a>         | Next.js QR builder with Firestore backend. 10 QR types, rich visual customization (colors, shapes, logos, scan labels), dynamic redirects via API routes, and per-code scan analytics with geo/UTM tracking. | Change a printed QR's destination anytime. Full scan analytics without selling user data. A free, self-hostable alternative to paid QR services that charge $20+/mo. | <a href="https://qrcanvas.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel" alt="Live" /></a>                   |
 
 ### Currently shipping
 
@@ -51,6 +51,7 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
 </p>
 
 <!-- BLOG:START -->
+
 - <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
 - <a href="https://blog.iamsainikhil.com/article/serverless-functions-vercel" target="_blank" rel="noopener noreferrer">Serverless Functions on Vercel</a>
 - <a href="https://blog.iamsainikhil.com/article/prismic-webhooks" target="_blank" rel="noopener noreferrer">Prismic Webhooks</a>
@@ -112,17 +113,8 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
   <summary><h3>ðŸ“Š GitHub Stats</h3></summary>
 
   <p align="center">
-    <a href="https://github.com/iamsainikhil">
-      <img src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=F8D866" width="49%" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/iamsainikhil">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=F8D866" width="49%" alt="Top Languages" />
-    </a>
-  </p>
-
-  <p align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsainikhil&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsainikhil&theme=react&hide_border=true&bg_color=0D1117" width="100%" alt="Streak Stats" />
     </a>
   </p>
 
@@ -133,25 +125,25 @@ I've shipped production apps in weather, QR infrastructure, and video tooling â€
   <details>
     <summary><h4>ðŸ“ˆ Detailed Metrics</h4></summary>
     <table>
-      <tr>
-        <td width="50%" align="center">
-          <img src="metrics.plugin.traffic.svg" width="480" alt="Traffic">
-        </td>
-        <td width="50%" align="center">
-          <img src="metrics.plugin.stars.svg" width="480" alt="Stars">
-        </td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td width="50%" align="center">
-          <img src="metrics.plugin.people.svg" width="480" alt="People">
-        </td>
-        <td width="50%" align="center">
-          <img src="metrics.plugin.isocalendar.fullyear.svg" width="480" alt="Contributions">
-        </td>
-      </tr>
-    </table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="metrics.plugin.traffic.svg" width="480" alt="Traffic">
+      </td>
+      <td width="50%" align="center">
+        <img src="metrics.plugin.stars.svg" width="480" alt="Stars">
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="metrics.plugin.people.svg" width="480" alt="People">
+      </td>
+      <td width="50%" align="center">
+        <img src="metrics.plugin.isocalendar.fullyear.svg" width="480" alt="Contributions">
+      </td>
+    </tr>
+  </table>
   </details>
 
   <h4>âš¡ Recent GitHub Activity</h4>
