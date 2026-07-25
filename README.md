@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iamsainikhil">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Full-stack%20developer;AI Orchestrator;AI%20as%20a%20tool%20in%20the%20stack&font=Cabinet+Grotesk&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Full-stack%20developer;AI%20Orchestrator&font=Cabinet%20Grotesk&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </p>
 
 I build product-first applications on deterministic foundations, accelerated by AI. I lean on serverless architecture, keep state management simple, and treat AI as a tool I control, not one that controls me.
