@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/iamsainikhil">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Full-stack%20developer;AI Orchestrator;AI%20as%20a%20tool%20in%20the%20stack&font=Rubik&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Full-stack%20developer;AI Orchestrator;AI%20as%20a%20tool%20in%20the%20stack&font=Cabinet+Grotesk&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </p>
 
-I've shipped production apps in weather, QR infrastructure, and video tooling — each with serverless backends, real-time data, and cross-device support. I use AI as a tool in the stack, not a substitute for understanding the system.
+I build product-first applications on deterministic foundations, accelerated by AI. I lean on serverless architecture, keep state management simple, and treat AI as a tool I control, not one that controls me.
 
 <p align="center">
   <a href="https://linkedin.com/in/iamsainikhil"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -66,8 +66,7 @@ I've shipped production apps in weather, QR infrastructure, and video tooling �
 </details>
 <!-- BLOG:END -->
 
-<details>
-  <summary><h3>🛠️ Tech Stack & Tools</h3></summary>
+<h3>🛠️ Tech Stack & Tools</h3>
 
   <h4>Frontend</h4>
   <p>
@@ -75,42 +74,48 @@ I've shipped production apps in weather, QR infrastructure, and video tooling �
     <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+    <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   </p>
 
   <h4>Backend & Database</h4>
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <img alt="Firestore" src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   </p>
 
   <h4>DevOps & Deployment</h4>
   <p>
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   </p>
 
-  <h4>AI & Local Models</h4>
+  <h4>AI Tools</h4>
   <p>
     <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     <img alt="LM Studio" src="https://img.shields.io/badge/-LM%20Studio-000000?style=flat-square&logo=llama&logoColor=white" />
-    <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+    <img alt="Opencode" src="https://img.shields.io/badge/-Opencode-000000?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="Superdesign" src="https://img.shields.io/badge/-Superdesign-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
   </p>
 
-  <h4>Tools & Workflows</h4>
+  <h4>Workflows & Automations</h4>
   <p>
-    <img alt="Opencode" src="https://img.shields.io/badge/-Opencode-000000?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="Hermes Agent" src="https://img.shields.io/badge/-Hermes%20Agent-00B894?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
     <img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white" />
+  </p>
+
+  <h4>Knowledge Vault</h4>
+  <p>
     <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
     <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   </p>
-</details>
 
-<details open>
-  <summary><h3>📊 GitHub Stats</h3></summary>
+  <h3>📊 GitHub Stats</h3>
 
   <p align="center">
     <a href="https://git.io/streak-stats">
@@ -121,9 +126,6 @@ I've shipped production apps in weather, QR infrastructure, and video tooling �
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsainikhil&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
   </a>
-
-  <details>
-    <summary><h4>📈 Detailed Metrics</h4></summary>
     <table>
     <tr>
       <td width="50%" align="center">
@@ -144,17 +146,7 @@ I've shipped production apps in weather, QR infrastructure, and video tooling �
       </td>
     </tr>
   </table>
-  </details>
 
   <h4>⚡ Recent GitHub Activity</h4>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-</details>
-
-### Connect
-
-<p>
-  <a href="https://linkedin.com/in/iamsainikhil" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/iamsainikhil12" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://iamsainikhil.com/contact" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Contact-4FC3F7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
-</p>
