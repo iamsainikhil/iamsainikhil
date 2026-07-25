@@ -2,9 +2,33 @@
   <img src="github-banner.svg" width="100%" alt="GitHub profile banner: Sainikhil — Senior Software Engineer" />
 </p>
 
-## I build product-first applications on deterministic foundations, accelerated by AI
+<p align="center">
+  <a href="https://github.com/iamsainikhil">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;React%20%26%20TypeScript%20full-stack%20developer;Serverless%20%26%20PWA%20architecture;AI-accelerated%20development&font=Fira%20Code&center=true&width=480&height=45&color=4FC3F7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  </a>
+</p>
 
 I've shipped production apps in weather, QR infrastructure, and video tooling — each with serverless backends, real-time data, and cross-device support. I use AI as a tool in the stack, not a substitute for understanding the system.
+
+<p align="center">
+  <a href="https://linkedin.com/in/iamsainikhil"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/iamsainikhil12"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://iamsainikhil.com/contact"><img src="https://img.shields.io/badge/-Contact-4FC3F7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
+  <a href="https://blog.iamsainikhil.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <a href="https://gurushots.com/iamsainikhil/photos"><img src="https://img.shields.io/badge/-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamsainikhil?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iamsainikhil?color=55960c&style=for-the-badge&labelColor=1F222E&logo=star"/>
+  </a>
+  <a href="https://github.com/iamsainikhil?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iamsainikhil?color=236ad3&style=for-the-badge&labelColor=1F222E&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iamsainikhil">
+    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=iamsainikhil&color=blue&style=for-the-badge&label=Profile+Views"/>
+  </a>
+</p>
 
 ### Featured work
 
@@ -22,7 +46,9 @@ I've shipped production apps in weather, QR infrastructure, and video tooling �
 
 ### Blog
 
-Not actively writing. Follow me on <a href="https://twitter.com/iamsainikhil12" target="_blank" rel="noopener noreferrer">X</a> for updates on what I'm shipping & writing.
+<p align="left">
+  <a href="https://blog.iamsainikhil.com"><img src="https://img.shields.io/badge/Read%20my%20blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+</p>
 
 <!-- BLOG:START -->
 - <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
@@ -39,58 +65,101 @@ Not actively writing. Follow me on <a href="https://twitter.com/iamsainikhil12" 
 </details>
 <!-- BLOG:END -->
 
-### Tech Stack & Tools
+<details>
+  <summary><h3>🛠️ Tech Stack & Tools</h3></summary>
 
-- **Next.js, React, TypeScript, Node.js** — full-stack apps, APIs, and PWAs with serverless backends.
-- **Supabase, PostgreSQL, Firebase** — managed storage, auth, and real-time data layer.
-- **Vercel, Docker** — deployment from serverless functions to containerized microservices.
-- **Playwright** — CI-gated E2E testing across all shipped projects.
-- **Ollama, LM Studio, WebLLM** — local LLM inference for privacy-sensitive agent workflows.
-- **Opencode, Superdesign, Hermes Agent** — AI agents for coding, UI design, and repeatable engineering tasks.
-- **Raycast** — custom launcher extensions and automation scripts.
-- **Obsidian + Notion** — knowledge vault for research, notes, and cross-referencing across projects.
-- **n8n** — workflow orchestration connecting APIs, LLMs, and data pipelines.
+  <h4>Frontend</h4>
+  <p>
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  </p>
 
-### 📊 GitHub Stats
+  <h4>Backend & Database</h4>
+  <p>
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img alt="Firestore" src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsainikhil&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="Streak Stats">
-      </a>
-    </td>
-    <td width="50%" align="center">
-     <img src="metrics.plugin.traffic.svg" width="480" alt="Traffic">
-    </td>
-  </tr>
-</table>
+  <h4>DevOps & Deployment</h4>
+  <p>
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-     <img src="metrics.plugin.stars.svg" width="480" alt="Starred repositories">
-    </td>
-    <td width="50%" align="center">
-     <img src="metrics.plugin.people.svg" width="480" alt="Starred repositories">
-    </td>
-  </tr>
-</table>
+  <h4>AI & Local Models</h4>
+  <p>
+    <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+    <img alt="LM Studio" src="https://img.shields.io/badge/-LM%20Studio-000000?style=flat-square&logo=llama&logoColor=white" />
+    <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  </p>
 
-<table>
-  <tr>
-  <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsainikhil&theme=react-dark&hide_border=true&bg_color=0D1117" width="720" alt="Activity Graph">
-    </td>
-    <td width="50%" align="center">
-      <img src="metrics.plugin.isocalendar.fullyear.svg" width="360" alt="Contributions">
-    </td>
-  </tr>
-</table>
+  <h4>Tools & Workflows</h4>
+  <p>
+    <img alt="Opencode" src="https://img.shields.io/badge/-Opencode-000000?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white" />
+    <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+
+  <p align="center">
+    <a href="https://github.com/iamsainikhil">
+      <img src="https://github-readme-stats.vercel.app/api?username=iamsainikhil&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=F8D866" width="49%" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/iamsainikhil">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsainikhil&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=F8D866" width="49%" alt="Top Languages" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsainikhil&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="Streak Stats" />
+    </a>
+  </p>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsainikhil&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  </a>
+
+  <details>
+    <summary><h4>📈 Detailed Metrics</h4></summary>
+    <table>
+      <tr>
+        <td width="50%" align="center">
+          <img src="metrics.plugin.traffic.svg" width="480" alt="Traffic">
+        </td>
+        <td width="50%" align="center">
+          <img src="metrics.plugin.stars.svg" width="480" alt="Stars">
+        </td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td width="50%" align="center">
+          <img src="metrics.plugin.people.svg" width="480" alt="People">
+        </td>
+        <td width="50%" align="center">
+          <img src="metrics.plugin.isocalendar.fullyear.svg" width="480" alt="Contributions">
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <h4>⚡ Recent GitHub Activity</h4>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
 ### Connect
-
-Outside code, I shoot candid, landscape, and urban photography on <a href="https://gurushots.com/iamsainikhil/photos" target="_blank" rel="noopener noreferrer">GuruShots</a>.
 
 <p>
   <a href="https://linkedin.com/in/iamsainikhil" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
