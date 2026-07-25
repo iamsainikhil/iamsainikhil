@@ -148,9 +148,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.1.1) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-2. 🎉 Merged PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-3. 🏷️ Labeled PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-4. 🔀 Opened PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-5. 👤 Assigned PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+1. 🔀 Opened PR [#477](https://github.com/DenverCoder1/readme-typing-svg/pull/477) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🚀 Published release [v2.1.1](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.1.1) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+3. 🎉 Merged PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+4. 🏷️ Labeled PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+5. 🔀 Opened PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
   <!--END_SECTION:activity-->
