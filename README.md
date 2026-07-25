@@ -82,15 +82,17 @@ I build product-first applications on deterministic foundations, accelerated by 
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+    <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
     <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   </p>
 
-  <h4>Backend & Database</h4>
+  <h4>Backend & API</h4>
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   </p>
 
   <h4>Database</h4>
@@ -105,6 +107,10 @@ I build product-first applications on deterministic foundations, accelerated by 
   <p>
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+    <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+    <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
   </p>
 
   <h4>AI Tools</h4>
@@ -112,7 +118,14 @@ I build product-first applications on deterministic foundations, accelerated by 
     <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     <img alt="LM Studio" src="https://img.shields.io/badge/-LM%20Studio-000000?style=flat-square&logo=llama&logoColor=white" />
     <img alt="Opencode" src="https://img.shields.io/badge/-Opencode-000000?style=flat-square&logo=openai&logoColor=white" />
-    <img alt="Superdesign" src="https://img.shields.io/badge/-Superdesign-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  </p>
+
+  <h4>Search & Retrieval</h4>
+  <p>
+    <img alt="SearXNG" src="https://img.shields.io/badge/-SearXNG-0F1923?style=flat-square&logo=searxng&logoColor=white" />
+    <img alt="Tavily" src="https://img.shields.io/badge/-Tavily-6C5CE7?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   </p>
 
   <h4>Knowledge Vault</h4>
