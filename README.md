@@ -50,7 +50,6 @@ I build product-first applications on deterministic foundations, accelerated by 
 </p>
 
 <!-- BLOG:START -->
-
 - <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
 - <a href="https://blog.iamsainikhil.com/article/serverless-functions-vercel" target="_blank" rel="noopener noreferrer">Serverless Functions on Vercel</a>
 - <a href="https://blog.iamsainikhil.com/article/prismic-webhooks" target="_blank" rel="noopener noreferrer">Prismic Webhooks</a>
