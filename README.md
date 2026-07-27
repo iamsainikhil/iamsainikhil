@@ -175,9 +175,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🔀 Opened PR [#477](https://github.com/DenverCoder1/readme-typing-svg/pull/477) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🚀 Published release [v2.1.1](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.1.1) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-3. 🎉 Merged PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-4. 🏷️ Labeled PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-5. 🔀 Opened PR [#6](https://github.com/iamsainikhil/qr-canvas/pull/6) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+1. ❌ Closed PR [#15](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/15) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+2. ❌ Closed PR [#16](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/16) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+3. ❌ Closed PR [#14](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/14) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+4. ❌ Closed PR [#12](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/12) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+5. ❌ Closed PR [#13](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/13) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
   <!--END_SECTION:activity-->
