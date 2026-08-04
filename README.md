@@ -175,9 +175,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/15) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
-2. ❌ Closed PR [#16](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/16) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
-3. ❌ Closed PR [#14](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/14) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
-4. ❌ Closed PR [#12](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/12) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
-5. ❌ Closed PR [#13](https://github.com/iamsainikhil/gatsby-prismic-blog-starter/pull/13) in [iamsainikhil/gatsby-prismic-blog-starter](https://github.com/iamsainikhil/gatsby-prismic-blog-starter)
+1. ❌ Closed PR [#26](https://github.com/iamsainikhil/blog/pull/26) in [iamsainikhil/blog](https://github.com/iamsainikhil/blog)
+2. ❌ Closed PR [#27](https://github.com/iamsainikhil/blog/pull/27) in [iamsainikhil/blog](https://github.com/iamsainikhil/blog)
+3. ❌ Closed PR [#23](https://github.com/iamsainikhil/blog/pull/23) in [iamsainikhil/blog](https://github.com/iamsainikhil/blog)
+4. ❌ Closed PR [#24](https://github.com/iamsainikhil/blog/pull/24) in [iamsainikhil/blog](https://github.com/iamsainikhil/blog)
+5. ❌ Closed PR [#22](https://github.com/iamsainikhil/blog/pull/22) in [iamsainikhil/blog](https://github.com/iamsainikhil/blog)
   <!--END_SECTION:activity-->
