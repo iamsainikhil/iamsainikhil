@@ -175,9 +175,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.0](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.2.0) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-2. 🎉 Merged PR [#7](https://github.com/iamsainikhil/qr-canvas/pull/7) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-3. 🏷️ Labeled PR [#7](https://github.com/iamsainikhil/qr-canvas/pull/7) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-4. 🔀 Opened PR [#7](https://github.com/iamsainikhil/qr-canvas/pull/7) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-5. 👤 Assigned PR [#7](https://github.com/iamsainikhil/qr-canvas/pull/7) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+1. 🚀 Published release [v2.2.2](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.2.2) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+2. 🎉 Merged PR [#9](https://github.com/iamsainikhil/qr-canvas/pull/9) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+3. 🏷️ Labeled PR [#9](https://github.com/iamsainikhil/qr-canvas/pull/9) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+4. 🔀 Opened PR [#9](https://github.com/iamsainikhil/qr-canvas/pull/9) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+5. 👤 Assigned PR [#9](https://github.com/iamsainikhil/qr-canvas/pull/9) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
   <!--END_SECTION:activity-->
