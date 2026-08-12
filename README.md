@@ -176,9 +176,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/iamsainikhil/short-links/releases/tag/v1.0.1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-2. 🎉 Merged PR [#1](https://github.com/iamsainikhil/short-links/pull/1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-3. 🏷️ Labeled PR [#1](https://github.com/iamsainikhil/short-links/pull/1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-4. 🔀 Opened PR [#1](https://github.com/iamsainikhil/short-links/pull/1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-5. 👤 Assigned PR [#1](https://github.com/iamsainikhil/short-links/pull/1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+1. 🚀 Published release [v1.1.1](https://github.com/iamsainikhil/short-links/releases/tag/v1.1.1) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+2. 🚀 Published release [v1.1.0](https://github.com/iamsainikhil/short-links/releases/tag/v1.1.0) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+3. 🎉 Merged PR [#2](https://github.com/iamsainikhil/short-links/pull/2) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+4. 🏷️ Labeled PR [#2](https://github.com/iamsainikhil/short-links/pull/2) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+5. 🔀 Opened PR [#2](https://github.com/iamsainikhil/short-links/pull/2) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
   <!--END_SECTION:activity-->
