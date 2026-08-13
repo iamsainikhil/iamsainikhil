@@ -145,7 +145,7 @@ I build product-first applications on deterministic foundations, accelerated by 
 
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsainikhil&theme=react&hide_border=true&bg_color=0D1117" width="100%" alt="Streak Stats" />
+      <img src="streak-stats.svg" width="100%" alt="Streak Stats" />
     </a>
   </p>
 
