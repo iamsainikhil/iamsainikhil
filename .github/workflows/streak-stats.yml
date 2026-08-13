@@ -20,7 +20,7 @@ jobs:
         with:
           options: user=iamsainikhil&theme=react&hide_border=true&bg_color=0D1117
           path: streak-stats.svg
-          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
