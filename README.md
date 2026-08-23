@@ -176,9 +176,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.0](https://github.com/iamsainikhil/qr-canvas/releases/tag/v2.3.0) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-2. 🎉 Merged PR [#15](https://github.com/iamsainikhil/qr-canvas/pull/15) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-3. 🏷️ Labeled PR [#15](https://github.com/iamsainikhil/qr-canvas/pull/15) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-4. 🔀 Opened PR [#15](https://github.com/iamsainikhil/qr-canvas/pull/15) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
-5. 👤 Assigned PR [#15](https://github.com/iamsainikhil/qr-canvas/pull/15) in [iamsainikhil/qr-canvas](https://github.com/iamsainikhil/qr-canvas)
+1. 🚀 Published release [v3.0.1](https://github.com/iamsainikhil/weather-react/releases/tag/v3.0.1) in [iamsainikhil/weather-react](https://github.com/iamsainikhil/weather-react)
+2. 🚀 Published release [v1.1.2](https://github.com/iamsainikhil/short-links/releases/tag/v1.1.2) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+3. 🎉 Merged PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+4. 🏷️ Labeled PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+5. 🔀 Opened PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
   <!--END_SECTION:activity-->
