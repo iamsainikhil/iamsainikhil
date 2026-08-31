@@ -40,7 +40,7 @@ I build product-first applications on deterministic foundations, accelerated by 
 
 ### Currently shipping
 
-- Aurithm: Plaid-connected investment portfolio analysis, metals tracking, ammortization and retirement contribution planning with AI-assisted insights.
+- Aurithm: Plaid-connected investment portfolio analysis, metals tracking, ammortization and retirement contribution calculators & planning with AI-assisted insights.
 - LLM + agent orchestration via n8n: connecting cloud and local models, agents, and APIs into automated multi-step workflows.
 - AI-powered dashboards aggregating data from Home Assistant, Bevel, TezLab, and other personal platforms into a unified view.
 
