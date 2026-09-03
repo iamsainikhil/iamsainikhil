@@ -51,14 +51,14 @@ I build product-first applications on deterministic foundations, accelerated by 
 </p>
 
 <!-- BLOG:START -->
-- <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS & Prismic</a>
+- <a href="https://blog.iamsainikhil.com/article/build-a-blog-using-nextjs-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using NextJS &amp; Prismic</a>
 - <a href="https://blog.iamsainikhil.com/article/serverless-functions-vercel" target="_blank" rel="noopener noreferrer">Serverless Functions on Vercel</a>
 - <a href="https://blog.iamsainikhil.com/article/prismic-webhooks" target="_blank" rel="noopener noreferrer">Prismic Webhooks</a>
 
 <details>
   <summary>More articles</summary>
   <ul>
-    <li><a href="https://blog.iamsainikhil.com/article/build-a-blog-using-gatsby-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using Gatsby & Prismic</a></li>
+    <li><a href="https://blog.iamsainikhil.com/article/build-a-blog-using-gatsby-and-prismic" target="_blank" rel="noopener noreferrer">Build a Blog using Gatsby &amp; Prismic</a></li>
     <li><a href="https://blog.iamsainikhil.com/article/themes-using-theme-ui" target="_blank" rel="noopener noreferrer">Build custom themes using Theme UI</a></li>
     <li><a href="https://blog.iamsainikhil.com/article/weather-react-app" target="_blank" rel="noopener noreferrer">Build a Weather Application Using React</a></li>
   </ul>
