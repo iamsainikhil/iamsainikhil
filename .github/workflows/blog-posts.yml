@@ -9,62 +9,69 @@ jobs:
     if: "github.repository == 'iamsainikhil/iamsainikhil'"
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
       - name: Fetch latest blog posts
         run: |
           curl -sL "https://blog.iamsainikhil.com" -o blog.html
-          python3 << 'EOF'
-          import re, html
-          from collections import OrderedDict
+          node -e "
+          const fs = require('fs');
+          const content = fs.readFileSync('blog.html', 'utf8');
+          const articles = new Map();
 
-          with open("blog.html") as f:
-              content = f.read()
+          const urlRegex = /href=\"(\/article\/[^\"]+)\"/g;
+          const titleRegex = /<a[^>]*class=\"css-1svw4um\"[^>]*>([^<]+)<\/a>/g;
 
-          articles = OrderedDict()
-          for m in re.finditer(
-              r'<a[^>]*href="(/article/[^"]+)"[^>]*>(.*?)</a>',
-              content, re.DOTALL
-          ):
-              url = m.group(1)
-              inner = m.group(2)
-              title = re.sub(r'<[^>]+>', '', inner).strip()
-              title = html.unescape(title)
-              if url not in articles and title and 'Read Full' not in title:
-                  articles[url] = title
+          const urls = [];
+          let m;
+          while ((m = urlRegex.exec(content)) !== null) {
+              if (!urls.includes(m[1])) urls.push(m[1]);
+          }
 
-          if not articles:
-              print("No articles found")
-              exit(1)
+          const titles = [];
+          while ((m = titleRegex.exec(content)) !== null) {
+              titles.push(m[1].trim());
+          }
 
-          with open("README.md") as f:
-              readme = f.read()
+          for (let i = 0; i < urls.length; i++) {
+              if (titles[i] && !titles[i].includes('Read Full')) {
+                  articles.set(urls[i], titles[i]);
+              }
+          }
 
-          start = "<!-- BLOG:START -->"
-          end = "<!-- BLOG:END -->"
-
-          items = list(articles.items())
-          top = items[:3]
-          rest = items[3:]
-
-          new_section = f"{start}\n"
-          for url, title in top:
-              escaped_title = title.replace('"', '&quot;')
-              new_section += f'- <a href="https://blog.iamsainikhil.com{url}" target="_blank" rel="noopener noreferrer">{escaped_title}</a>\n'
-          if rest:
-              new_section += '\n<details>\n  <summary>More articles</summary>\n  <ul>\n'
-              for url, title in rest:
-                  escaped_title = title.replace('"', '&quot;')
-                  new_section += f'    <li><a href="https://blog.iamsainikhil.com{url}" target="_blank" rel="noopener noreferrer">{escaped_title}</a></li>\n'
-              new_section += '  </ul>\n</details>\n'
-          new_section += f"{end}"
-
-          if start in readme and end in readme:
-              readme = re.sub(f"{start}.*?{end}", new_section, readme, flags=re.DOTALL)
-              with open("README.md", "w") as f:
-                  f.write(readme)
-              print("README updated with latest blog posts")
-          else:
-              print(f"Blog markers not found in README. Add {start} and {end} comments to enable auto-updates.")
-          EOF
+          if (articles.size === 0) {
+              console.log('No articles found');
+              process.exit(1);
+          }
+          let readme = fs.readFileSync('README.md', 'utf8');
+          const start = '<!-- BLOG:START -->';
+          const end = '<!-- BLOG:END -->';
+          const items = [...articles.entries()];
+          const top = items.slice(0, 3);
+          const rest = items.slice(3);
+          let newSection = start + '\n';
+          for (const [url, title] of top) {
+              const escapedTitle = title.replace(/\"/g, '&quot;');
+              newSection += '- <a href=\"https://blog.iamsainikhil.com' + url + '\" target=\"_blank\" rel=\"noopener noreferrer\">' + escapedTitle + '</a>\n';
+          }
+          if (rest.length > 0) {
+              newSection += '\n<details>\n  <summary>More articles</summary>\n  <ul>\n';
+              for (const [url, title] of rest) {
+                  const escapedTitle = title.replace(/\"/g, '&quot;');
+                  newSection += '    <li><a href=\"https://blog.iamsainikhil.com' + url + '\" target=\"_blank\" rel=\"noopener noreferrer\">' + escapedTitle + '</a></li>\n';
+              }
+              newSection += '  </ul>\n</details>\n';
+          }
+          newSection += end;
+          if (readme.includes(start) && readme.includes(end)) {
+              readme = readme.replace(new RegExp(start + '[\\\\s\\\\S]*?' + end), newSection);
+              fs.writeFileSync('README.md', readme);
+              console.log('README updated with latest blog posts');
+          } else {
+              console.log('Blog markers not found in README. Add ' + start + ' and ' + end + ' comments to enable auto-updates.');
+          }
+          "
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
