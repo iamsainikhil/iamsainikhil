@@ -176,9 +176,9 @@ I build product-first applications on deterministic foundations, accelerated by 
   <h4>⚡ Recent GitHub Activity</h4>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.1](https://github.com/iamsainikhil/weather-react/releases/tag/v3.0.1) in [iamsainikhil/weather-react](https://github.com/iamsainikhil/weather-react)
-2. 🚀 Published release [v1.1.2](https://github.com/iamsainikhil/short-links/releases/tag/v1.1.2) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-3. 🎉 Merged PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-4. 🏷️ Labeled PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
-5. 🔀 Opened PR [#3](https://github.com/iamsainikhil/short-links/pull/3) in [iamsainikhil/short-links](https://github.com/iamsainikhil/short-links)
+1. 🎉 Merged PR [#32](https://github.com/iamsainikhil/trimtube/pull/32) in [iamsainikhil/trimtube](https://github.com/iamsainikhil/trimtube)
+2. 🔒 Closed issue [#14](https://github.com/iamsainikhil/trimtube/issues/14) in [iamsainikhil/trimtube](https://github.com/iamsainikhil/trimtube)
+3. 🏷️ Labeled PR [#32](https://github.com/iamsainikhil/trimtube/pull/32) in [iamsainikhil/trimtube](https://github.com/iamsainikhil/trimtube)
+4. 🏷️ Labeled PR [#32](https://github.com/iamsainikhil/trimtube/pull/32) in [iamsainikhil/trimtube](https://github.com/iamsainikhil/trimtube)
+5. 🔀 Opened PR [#32](https://github.com/iamsainikhil/trimtube/pull/32) in [iamsainikhil/trimtube](https://github.com/iamsainikhil/trimtube)
   <!--END_SECTION:activity-->
